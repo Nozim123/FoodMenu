@@ -47,8 +47,4 @@ git https://github.com/Nozim123/FoodMenu.git
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-### License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee)
